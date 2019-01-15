@@ -1,3 +1,30 @@
 body{
-  font-family: arial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: dodgerblue;
+    background-color: rgb(202, 201, 201);
 }
+a{
+    text-decoration: none;
+    font-style: oblique;
+    cursor: pointer;
+}
+a :visited{
+    text-decoration: none;
+}
+th{
+    color: brown;
+    background-color: blanchedalmond;
+}
+td{
+    background-color: rgb(131, 173, 131);
+    color: black;
+    padding: 5px;
+}
+table{
+    border-collapse: collapse;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
